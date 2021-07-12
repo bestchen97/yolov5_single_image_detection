@@ -7,4 +7,6 @@ Also with this function, you can get the result of the coordinates of detection 
 ### Method
 `single_img_detect.py`This file is the main file. The function named `run` could be used directly instead of using the command line. So you can run the .py file and get the output results.  
 I wrote a function named `my_load_single_img` to process a single image in `datasets.py`, which is imported in `single_img_detect.py`. You need to replace this `datasets.py` in the folder of the official code (the link above), `utils/datasets.py`.  
-* Run the `single_img_detect.py`, you may get the output image as below.
+* Run the `single_img_detect.py`, you may get the output image as below.  
+  
+  <div align=center><img width="640" height="360" src="https://github.com/bestchen97/yolov5_single_image_detection/blob/main/zidane_output.png" alt="example1"/></div>  
